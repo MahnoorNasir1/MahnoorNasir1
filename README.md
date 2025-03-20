@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahnoor Nasir</h1>
-<h3 align="center">Data Analyst Civil Engineering background and safety officer certifications. Passion for transforming raw data into clear meaningful insights through analysis, visualizations and creative communication. Skilled with data analysis tools like Excel, SQL, Power BI, Python and Tableau. Committed to learning and continuous improvement and driving impactful data-driven decisions.</h3>
+<h3 align="center">Data Analyst with civil engineering background and safety officer certifications. Passion for transforming raw data into clear meaningful insights through analysis, visualizations and creative communication. Skilled with data analysis tools like Excel, SQL, Power BI, Python and Tableau. Committed to learning and continuous improvement and driving impactful data-driven decisions.</h3>
 
 - 🌱 I’m currently learning **Tableau, SQLs, PowerBI**
 
